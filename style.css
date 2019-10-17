@@ -52,7 +52,7 @@ h1,h2,h3,p{
 
 #Seven .desert{
     position: absolute;
-    background: url(/desert.jpg);
+    background: url(desert.jpg);
     background-position: center;
     background-repeat: no;
     background-size: cover;
